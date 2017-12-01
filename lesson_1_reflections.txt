@@ -1,0 +1,13 @@
+It showed me the difference between the two files
+
+It allows me to see the changes I've made and I can 
+go back to earlier versions if I want to.
+
+it gives more flexibility, but I could forget to commit. 
+
+Because they are not logically connected. 
+
+git log command displays all the commits that have happened and the git diff
+command allows me to compare to different commits with their id.
+
+because it is easier to go back and forth between commits. 
